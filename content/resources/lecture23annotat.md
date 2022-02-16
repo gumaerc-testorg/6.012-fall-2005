@@ -5,8 +5,13 @@ description: 'This resource contains the professor''s comments on the topics cov
   response of commonsource
 
   amplifier, and miller effect.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-012-microelectronic-devices-and-circuits-fall-2005/32f26edfc33cdb54b3c232c78b6d67e0_lecture23annotat.pdf
+file: /media/courses/6-012-microelectronic-devices-and-circuits-fall-2005/32f26edfc33cdb54b3c232c78b6d67e0_lecture23annotat.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture23annotat.pdf
 uid: 32f26edf-c33c-db54-b3c2-32c78b6d67e0

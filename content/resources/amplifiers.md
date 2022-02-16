@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains summary of amplifiers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-012-microelectronic-devices-and-circuits-fall-2005/3b151b1baf841d45856ce755ef2164f9_amplifiers.pdf
+file: /media/courses/6-012-microelectronic-devices-and-circuits-fall-2005/3b151b1baf841d45856ce755ef2164f9_amplifiers.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: amplifiers.pdf
 uid: 3b151b1b-af84-1d45-856c-e755ef2164f9
