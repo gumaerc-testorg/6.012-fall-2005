@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9ce4c04b-a600-1d3d-5235-419b2783590d
 resourcetype: Document
 title: lecture23annotat.pdf
 uid: 32f26edf-c33c-db54-b3c2-32c78b6d67e0

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f62c5bd1-19ce-a2e5-fbd4-d1c84b35f616
 resourcetype: Document
 title: final_spr01_soln.pdf
 uid: 8c8aff47-7926-dc39-ca1d-9f3f58465fb0

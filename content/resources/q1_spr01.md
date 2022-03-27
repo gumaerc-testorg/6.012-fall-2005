@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f62c5bd1-19ce-a2e5-fbd4-d1c84b35f616
 resourcetype: Document
 title: q1_spr01.pdf
 uid: 47a71699-08fb-655d-0f2f-f1318b91b3c2

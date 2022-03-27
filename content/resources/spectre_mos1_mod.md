@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a27c124-7566-c49d-cf5b-169eea2bba33
 resourcetype: Document
 title: spectre_mos1_mod.pdf
 uid: 8ead7bce-4bc0-6bf1-9201-8ee7195604f8

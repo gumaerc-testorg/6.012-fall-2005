@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a27c124-7566-c49d-cf5b-169eea2bba33
 resourcetype: Document
 title: cadence_tutorial2.pdf
 uid: e72e9451-8fc2-b124-5b40-606c586c03d9

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f62c5bd1-19ce-a2e5-fbd4-d1c84b35f616
 resourcetype: Document
 title: q1_review.pdf
 uid: dbe59084-4cd0-b84c-ff44-f3fdbf2f41dc

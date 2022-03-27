@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1bf32b00-92f4-f165-4630-a2680f54fbda
 resourcetype: Document
 title: q1_fall05.pdf
 uid: 7438692a-f433-8b8c-c9ff-cb78c21e2213

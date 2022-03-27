@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a27c124-7566-c49d-cf5b-169eea2bba33
 resourcetype: Document
 title: cadence_calc.pdf
 uid: 4ed15644-0a15-fea4-df8f-1e01eb310bbb
