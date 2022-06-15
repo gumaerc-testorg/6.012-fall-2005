@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for the final exam held in spring 2001.
-file: /media/courses/6-012-microelectronic-devices-and-circuits-fall-2005/5d79e6bc79605d2dd709e861009b5ec8_final_spr01.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/5d79e6bc79605d2dd709e861009b5ec8_final_spr01.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: final_spr01.pdf
 uid: 5d79e6bc-7960-5d2d-d709-e861009b5ec8
 ---
+This file contains questions for the final exam held in spring 2001.
+
