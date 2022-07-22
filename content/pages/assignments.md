@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 391dcce1-661d-7eb6-2e36-3e414e9f6dab
 ---
@@ -24,7 +28,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Electrons/Holes, Donors/Acceptors, p-n Diode Characterization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1))
+Electrons/Holes, Donors/Acceptors, p-n Diode Characterization ({{% resource_link 9a61d7f9-9b1b-2db6-13f5-3090aa8d3b37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Electrons/Holes, Donors/Acceptors, p-n Diode Characterization (![This resource m
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Drift/Diffusion, 60 mV Rule ([PDF]({{< baseurl >}}/resources/hw2))
+Drift/Diffusion, 60 mV Rule ({{% resource_link 93d76f71-4fc8-335e-d8e3-d0c330661cbc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Drift/Diffusion, 60 mV Rule ([PDF]({{< baseurl >}}/resources/hw2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-p-n Junction Electrostatics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3))
+p-n Junction Electrostatics ({{% resource_link e3014459-ddbd-4401-4117-4186bb97a083 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ p-n Junction Electrostatics (![This resource may not render correctly in a scree
 4
 {{< tdclose >}}
 {{< tdopen >}}
-MOS Electrostatics ([PDF]({{< baseurl >}}/resources/hw4))
+MOS Electrostatics ({{% resource_link c8c0af19-07d3-0ce4-8186-dfffd824d5af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ MOS Electrostatics ([PDF]({{< baseurl >}}/resources/hw4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-MOSFET (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5))
+MOSFET ({{% resource_link da0713f4-6cc7-22cd-e9a4-68abeacf0d7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ MOSFET (![This resource may not render correctly in a screen reader.](/images/in
 6
 {{< tdclose >}}
 {{< tdopen >}}
-MOSFET Characterization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw6))
+MOSFET Characterization ({{% resource_link 55573add-c784-7234-9b4d-6c06c8d5c714 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ MOSFET Characterization (![This resource may not render correctly in a screen re
 7
 {{< tdclose >}}
 {{< tdopen >}}
-MOSFET Logic Circuits ([PDF]({{< baseurl >}}/resources/hw7))
+MOSFET Logic Circuits ({{% resource_link ea01a804-85c9-71f3-1bd0-53524d802a18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ MOSFET Logic Circuits ([PDF]({{< baseurl >}}/resources/hw7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-p-n Diode ([PDF]({{< baseurl >}}/resources/hw8))
+p-n Diode ({{% resource_link f7b1d793-4870-83a8-66ab-67f86ab5283e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ p-n Diode ([PDF]({{< baseurl >}}/resources/hw8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-BJT, Single-stage Amplifiers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw9))
+BJT, Single-stage Amplifiers ({{% resource_link 0de561ba-27c5-f9a3-a24a-74569587d5cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ BJT, Single-stage Amplifiers (![This resource may not render correctly in a scre
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Multistage Amplifiers, Frequency Response of Amplifiers ([PDF]({{< baseurl >}}/resources/hw10))
+Multistage Amplifiers, Frequency Response of Amplifiers ({{% resource_link 9545a127-a530-07ba-8f25-eeb92abe5330 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
