@@ -7,6 +7,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/6bec6dd1b07b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec14.pdf
 uid: 6bec6dd1-b07b-02a1-a840-98b78f068cc3
 ---
 This file contains notes for complementary MOS (CMOS) inverter: introduction, CMOS inverter: noise margins, CMOS inverter: propagation delay, and CMOS inverter: dynamic power.
-

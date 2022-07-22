@@ -6,6 +6,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/767dfc4fb9ff
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 767dfc4f-b9ff-3c5e-f6ae-a7dc71e5bc51
 ---
 This file contains notes for electrostatics of pn junction under bias, and depletion capacitance.
-

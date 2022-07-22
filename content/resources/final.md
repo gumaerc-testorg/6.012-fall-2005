@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/6ec3cfb9a336
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: 6ec3cfb9-a336-1aa1-af4d-e0c710025d56
 ---
 This file contains the questions asked in Final exam, fall 2005.
-

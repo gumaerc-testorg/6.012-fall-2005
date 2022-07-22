@@ -9,6 +9,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/32f26edfc33c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 32f26edf-c33c-db54-b3c2-32c78b6d67e0
 ---
 This resource contains the professor's comments on the topics covered during the lecture viz. introduction, intrinsic frequency response of MOSFET frequency response of commonsource
 amplifier, and miller effect.
-

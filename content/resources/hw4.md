@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/c8c0af1907d3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw4.pdf
 uid: c8c0af19-07d3-0ce4-8186-dfffd824d5af
 ---
 This file contains exercise questions for MOS electrostatics.
-

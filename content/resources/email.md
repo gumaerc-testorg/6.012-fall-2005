@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: email.jpg
 uid: 38fc6280-0fa6-add3-1bd6-a83c6c48cd39
 ---
 Professor's mailing address.
-

@@ -6,6 +6,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/edfa0bfce078
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture15annotat.pdf
 uid: edfa0bfc-e078-ca6e-c0b7-2d61d1338baa
 ---
 This resource contains the professor's comments on the topics covered during the lecture viz. pn junction under bias, and I-V characteristics.
-

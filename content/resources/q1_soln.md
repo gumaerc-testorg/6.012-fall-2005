@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/d103021e7630
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q1_soln.pdf
 uid: d103021e-7630-d3ec-1402-b78a6d55f072
 ---
 This file contains solutions to the questions asked in quiz 1, fall 2005.
-

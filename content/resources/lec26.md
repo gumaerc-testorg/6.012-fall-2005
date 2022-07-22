@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/8240bc27cf24
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec26.pdf
 uid: 8240bc27-cf24-080c-544e-2a76099e73d6
 ---
 This file contains notes about final wrap up of the course.
-

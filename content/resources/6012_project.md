@@ -6,6 +6,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/f6348abaaac3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 6012_project.pdf
 uid: f6348aba-aac3-91e5-848a-bd3a9fdf9eef
 ---
 This file contains the project information, overview, design problem definition, device models and deliverables.
-

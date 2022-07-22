@@ -7,6 +7,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/3488c8393dbc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture16annotat.pdf
 uid: 3488c839-3dbc-748d-a85f-a7737a5b433b
 ---
 This resource contains the professor's comments on the topics covered during the lecture viz. I-V characteristics (cont.), small-signal equivalent circuit model, carrier charge storage: diffusion capacitance.
-

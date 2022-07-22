@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/ea01a80485c9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw7.pdf
 uid: ea01a804-85c9-71f3-1bd0-53524d802a18
 ---
 This file contains exercise questions for MOSFET logic circuits.
-
