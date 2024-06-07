@@ -4,6 +4,7 @@ description: This resource contains the professor's comments on the topics cover
   during the lecture viz. amplifier fundamentals, common source amplifier, common
   source amplifier with currentsource supply.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/d2413845e259f2a9aa9a5682788bdeb8_lecture19annotat.pdf
+file_size: 208382
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

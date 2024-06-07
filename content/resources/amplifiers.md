@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains summary of amplifiers.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/3b151b1baf841d45856ce755ef2164f9_amplifiers.pdf
+file_size: 91019
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

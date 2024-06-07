@@ -4,6 +4,7 @@ description: This resource contains the professor's comments on the topics cover
   during the lecture viz. introduction to pn junction, electrostatics of pn junction
   in thermal equilibrium, the depletion approximation, contact potentials.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/9c9310d77a66dcf1e3a078a1fd2a3e8b_lecture5annotat.pdf
+file_size: 230071
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

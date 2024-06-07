@@ -4,6 +4,7 @@ description: 'This file contains notes for complementary MOS (CMOS) inverter: in
   CMOS inverter: noise margins, CMOS inverter: propagation delay, and CMOS inverter:
   dynamic power.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/6bec6dd1b07b02a1a84098b78f068cc3_lec14.pdf
+file_size: 211311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

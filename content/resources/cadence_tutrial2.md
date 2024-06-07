@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses sophisticated modeling techniques and more powerful
   simulation skills.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/612adde7e1b5c93ccb071c19a5f82c0d_cadence_tutrial2.pdf
+file_size: 525298
 file_type: application/pdf
 learning_resource_types:
 - Projects

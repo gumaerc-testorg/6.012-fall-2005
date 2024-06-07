@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains questions asked in quiz 1, spring 2001.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/47a7169908fb655d0f2ff1318b91b3c2_q1_spr01.pdf
+file_size: 84665
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

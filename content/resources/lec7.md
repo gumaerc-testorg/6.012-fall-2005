@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for introduction to MOS structure, electrostatics
   of MOS at zero bias, electrostatics of MOS under bias.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/036259a061d9086b93ffd8f4f055fb92_lec7.pdf
+file_size: 83764
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
