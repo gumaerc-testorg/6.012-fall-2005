@@ -6,6 +6,7 @@ description: 'This file contains notes for Non-uniformly doped semiconductor in 
 
   concentrations (Boltzmann relations), "60 mV Rule".'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/80f31a0b7951721873a19432421166fb_lec4.pdf
+file_size: 126676
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes about final wrap up of the course.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/8240bc27cf24080c544e2a76099e73d6_lec26.pdf
+file_size: 334949
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

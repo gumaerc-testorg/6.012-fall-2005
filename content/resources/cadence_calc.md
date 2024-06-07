@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information on how to use the cadence waveform
   calculator.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/4ed156440a15fea4df8f1e01eb310bbb_cadence_calc.pdf
+file_size: 1225272
 file_type: application/pdf
 learning_resource_types:
 - Projects

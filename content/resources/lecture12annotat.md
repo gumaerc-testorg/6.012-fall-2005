@@ -4,6 +4,7 @@ description: 'This resource contains the professor''s comments on the topics cov
   during the lecture viz. introduction to digital electronics: the inverter, NMOS
   inverter with resistor pull up.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/9c502986a51c2ba105cee21dd104a098_lecture12annotat.pdf
+file_size: 258800
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

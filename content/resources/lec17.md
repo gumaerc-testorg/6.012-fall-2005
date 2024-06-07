@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains notes for BJT: structure and basic operation, and
   I-V characteristics in forward active regime.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/f6e04646e02de2f0ebabbc7e3e5adee9_lec17.pdf
+file_size: 122066
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

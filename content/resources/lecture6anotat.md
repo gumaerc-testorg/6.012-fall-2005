@@ -4,6 +4,7 @@ description: This resource contains the professor's comments on the topics cover
   during the lecture viz. electrostatics of pn junction under bias, and depletion
   capacitance.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/4fabb3fcf30f198d5e168fc944ae1fc3_lecture6anotat.pdf
+file_size: 208577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

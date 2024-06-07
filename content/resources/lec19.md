@@ -5,6 +5,7 @@ description: 'This file contains notes for amplifier fundamentals, common source
 
   supply.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/7a51249eb734152c5ce95df393cf4f1f_lec19.pdf
+file_size: 165288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
