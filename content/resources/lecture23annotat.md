@@ -6,6 +6,7 @@ description: 'This resource contains the professor''s comments on the topics cov
 
   amplifier, and miller effect.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/32f26edfc33cdb54b3c232c78b6d67e0_lecture23annotat.pdf
+file_size: 227910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

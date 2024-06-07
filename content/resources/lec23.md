@@ -5,6 +5,7 @@ description: 'This file contains notes for introduction, intrinsic frequency res
 
   amplifier, and miller effect.'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/44ed13d9b5e46dd459d9bca431fc547a_lec23.pdf
+file_size: 208012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

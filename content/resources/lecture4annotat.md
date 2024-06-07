@@ -6,6 +6,7 @@ description: 'This resource contains the professor''s comments on the topics cov
 
   concentrations (Boltzmann relations), "60 mV Rule".'
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/9654bdfa6767064b440d91e610933bf3_lecture4annotat.pdf
+file_size: 228506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

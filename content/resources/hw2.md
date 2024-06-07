@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains exercise questions for drift/diffusion, and 60 mV
   rules.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/93d76f714fc8335ed8e3d0c330661cbc_hw2.pdf
+file_size: 67000
 file_type: application/pdf
 learning_resource_types:
 - Assignments

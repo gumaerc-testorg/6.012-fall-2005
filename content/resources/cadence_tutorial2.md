@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information on cadence.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/e72e94518fc2b1245b40606c586c03d9_cadence_tutorial2.pdf
+file_size: 233380
 file_type: application/pdf
 learning_resource_types:
 - Projects

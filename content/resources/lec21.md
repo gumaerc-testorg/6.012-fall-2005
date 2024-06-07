@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for introduction, CMOS multistage voltage amplifier,
   BiCMOS multistage voltage amplifier, BiCMOS current buffer, coupling amplifier stages.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/d1b9dac44940b5bccb832684b76505b4_lec21.pdf
+file_size: 198919
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

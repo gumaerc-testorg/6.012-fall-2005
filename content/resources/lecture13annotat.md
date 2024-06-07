@@ -4,6 +4,7 @@ description: This resource contains the professor's comments on the topics cover
   during the lecture viz. NMOS inverter with resistor pull-up (cont.), NMOS inverter
   with current-source pull-up, and complementary MOS (CMOS) Inverter.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/a90807c5ba1e533728d23ead9ec344a3_lecture13annotat.pdf
+file_size: 287362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
