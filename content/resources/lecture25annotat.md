@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the professor's comments on the topics covered
   during the lecture viz. frequency response of common-drain amplifier, and cascode
   amplifier.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/812515ba3e3e1ac007713ad018c39f55_lecture25annotat.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/812515ba3e3e1ac007713ad018c39f55_lecture25annotat.pdf
 file_size: 164206
 file_type: application/pdf
 learning_resource_types:

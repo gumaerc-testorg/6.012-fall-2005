@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for introduction to digital electronics: the
   inverter, NMOS inverter with resistor pull up.'
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/74c08e0cdcdab837d4eaceaf2384d646_lec12.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/74c08e0cdcdab837d4eaceaf2384d646_lec12.pdf
 file_size: 88642
 file_type: application/pdf
 learning_resource_types:
