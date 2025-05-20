@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Professor's mailing address.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/38fc62800fa6add31bd6a83c6c48cd39_email.jpg
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/38fc62800fa6add31bd6a83c6c48cd39_email.jpg
 file_size: 13426
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about Cadence.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/fab4b8cd00453c3137e88e214d2ad5a3_cadence_tutorial.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/fab4b8cd00453c3137e88e214d2ad5a3_cadence_tutorial.pdf
 file_size: 1014397
 file_type: application/pdf
 learning_resource_types:

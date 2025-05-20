@@ -6,7 +6,7 @@ description: 'This resource contains the professor''s comments on the topics cov
   amplifier (cont.), common drain
 
   amplifier, common gate amplifier.'
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/73e03dc41660c39bc6b15756733187f1_lecture20annotat.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/73e03dc41660c39bc6b15756733187f1_lecture20annotat.pdf
 file_size: 233208
 file_type: application/pdf
 learning_resource_types:

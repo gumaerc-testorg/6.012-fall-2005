@@ -5,7 +5,7 @@ description: 'This file contains notes for common source
   amplifier (cont.),common drain
 
   amplifier, common gate amplifier.'
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/0bfabd84bd43328556f84b51bd0abcc8_lec20.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/0bfabd84bd43328556f84b51bd0abcc8_lec20.pdf
 file_size: 187118
 file_type: application/pdf
 learning_resource_types:

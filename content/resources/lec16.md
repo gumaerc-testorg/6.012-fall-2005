@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes I-V characteristics (cont.), small-signal equivalent
   circuit model, carrier charge storage: diffusion capacitance.'
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/4b2ed0f760def0cae0d70cc9fbf934df_lec16.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/4b2ed0f760def0cae0d70cc9fbf934df_lec16.pdf
 file_size: 133714
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for thermal motion, carrier drift, carrier diffusion.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/9bb1515169363c8c2835891d9a5a8814_lec3.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/9bb1515169363c8c2835891d9a5a8814_lec3.pdf
 file_size: 83861
 file_type: application/pdf
 learning_resource_types:

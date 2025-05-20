@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for frequency response of common-drain amplifier,
   and cascode amplifier.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/be739b7544fed56fd70453fcdf142ab7_lec25.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/be739b7544fed56fd70453fcdf142ab7_lec25.pdf
 file_size: 90831
 file_type: application/pdf
 learning_resource_types:
