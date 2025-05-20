@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions asked in Final exam, fall 2005.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/39bc0031c17ab2e600c3d4f2fe0291d8_final_soln.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/39bc0031c17ab2e600c3d4f2fe0291d8_final_soln.pdf
 file_size: 269322
 file_type: application/pdf
 learning_resource_types:

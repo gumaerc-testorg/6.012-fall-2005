@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for MOS electrostatics.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/c8c0af1907d30ce48186dfffd824d5af_hw4.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/c8c0af1907d30ce48186dfffd824d5af_hw4.pdf
 file_size: 48780
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for regimes of operation, large-signal equivalent
   circuit model, and output characteristics.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/8ea0ef3d8b148059bf82426fea197241_lec18.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/8ea0ef3d8b148059bf82426fea197241_lec18.pdf
 file_size: 219086
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for electrostatics of pn junction under bias,
   and depletion capacitance.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/767dfc4fb9ff3c5ef6aea7dc71e5bc51_lec6.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/767dfc4fb9ff3c5ef6aea7dc71e5bc51_lec6.pdf
 file_size: 106966
 file_type: application/pdf
 learning_resource_types:
