@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains review for topics semiconductor physics, pn junction,
   electostatics, MOS capacitors.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/dbe590844cd0b84cff44f3fdbf2f41dc_q1_review.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/dbe590844cd0b84cff44f3fdbf2f41dc_q1_review.pdf
 file_size: 145526
 file_type: application/pdf
 learning_resource_types: []

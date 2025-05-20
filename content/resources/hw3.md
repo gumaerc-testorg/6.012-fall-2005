@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for p-n junction electrostatics.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/e3014459ddbd440141174186bb97a083_hw3.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/e3014459ddbd440141174186bb97a083_hw3.pdf
 file_size: 46652
 file_type: application/pdf
 learning_resource_types:

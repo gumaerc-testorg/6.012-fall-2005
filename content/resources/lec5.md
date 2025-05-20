@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains introduction to pn junction, electrostatics of pn
   junction in thermal equilibrium, the depletion approximation, contact potentials.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/188f6340d4d10b0e923d1c0166c8fba1_lec5.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/188f6340d4d10b0e923d1c0166c8fba1_lec5.pdf
 file_size: 90833
 file_type: application/pdf
 learning_resource_types:

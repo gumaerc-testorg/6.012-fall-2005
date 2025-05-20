@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for MOSFET characterization.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/55573addc78472349b4d6c06c8d5c714_hw6.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/55573addc78472349b4d6c06c8d5c714_hw6.pdf
 file_size: 43321
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the solutions to the questions asked quiz 1, spring
   2001.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/9f444b243ff839b716cd93bdc228dec7_q1_spr01_soln.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/9f444b243ff839b716cd93bdc228dec7_q1_spr01_soln.pdf
 file_size: 790420
 file_type: application/pdf
 learning_resource_types: []

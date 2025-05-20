@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for p-n diode.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/f7b1d793487083a866ab67f86ab5283e_hw8.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/f7b1d793487083a866ab67f86ab5283e_hw8.pdf
 file_size: 63705
 file_type: application/pdf
 learning_resource_types:

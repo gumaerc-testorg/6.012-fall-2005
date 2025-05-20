@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the professor's comments on the topics covered
   during the lecture viz. pn junction under bias, and I-V characteristics.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/edfa0bfce078ca6ec0b72d61d1338baa_lecture15annotat.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/edfa0bfce078ca6ec0b72d61d1338baa_lecture15annotat.pdf
 file_size: 235695
 file_type: application/pdf
 learning_resource_types:
