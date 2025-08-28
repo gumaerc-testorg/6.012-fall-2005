@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for MOSFET logic circuits.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/ea01a80485c971f31bd053524d802a18_hw7.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/ea01a80485c971f31bd053524d802a18_hw7.pdf
 file_size: 48150
 file_type: application/pdf
 learning_resource_types:
