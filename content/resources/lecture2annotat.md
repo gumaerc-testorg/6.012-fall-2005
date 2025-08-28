@@ -4,7 +4,7 @@ description: 'This resource contains the professor''s comments on the topics cov
   during the lecture viz. silicon bond model: electrons and holes, generation and
   recombination, thermal equilibrium, intrinsic semiconductor, and doping, extrinsic
   semiconductor.'
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/a3212ef06b21f92e092036c5b0bbb285_lecture2annotat.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/a3212ef06b21f92e092036c5b0bbb285_lecture2annotat.pdf
 file_size: 361889
 file_type: application/pdf
 learning_resource_types:

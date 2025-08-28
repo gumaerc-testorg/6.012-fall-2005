@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for MOSFET.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/da0713f46cc722cde9a468abeacf0d7a_hw5.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/da0713f46cc722cde9a468abeacf0d7a_hw5.pdf
 file_size: 50085
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the professor''s comments on the topics covered
   during the lecture viz. MOSFET: cross section, layout, symbols, qualitative operation,
   IV characteristics.'
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/f12f87c6bb168525a44a32a89c7d1ae7_lecture9annotat.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/f12f87c6bb168525a44a32a89c7d1ae7_lecture9annotat.pdf
 file_size: 318730
 file_type: application/pdf
 learning_resource_types:
