@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the professor's comments on the topics covered
   during the lecture viz. regimes of operation, large-signal equivalent circuit model,
   and output characteristics.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/4069507bd5f047dcc07972a0c758a0e5_lecture18annotat.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/4069507bd5f047dcc07972a0c758a0e5_lecture18annotat.pdf
 file_size: 271474
 file_type: application/pdf
 learning_resource_types:

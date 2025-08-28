@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for the saturation regime, backgate characteristics.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/0498bbf0f0e585507d9cfe5dc3bd54b1_lec10.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/0498bbf0f0e585507d9cfe5dc3bd54b1_lec10.pdf
 file_size: 289200
 file_type: application/pdf
 learning_resource_types:

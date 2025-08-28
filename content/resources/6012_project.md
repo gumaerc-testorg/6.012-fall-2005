@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the project information, overview, design problem
   definition, device models and deliverables.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2005/f6348abaaac391e5848abd3a9fdf9eef_6012_project.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2005/f6348abaaac391e5848abd3a9fdf9eef_6012_project.pdf
 file_size: 145068
 file_type: application/pdf
 learning_resource_types:
