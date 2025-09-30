@@ -21,4 +21,4 @@ Cadence Tutorial: Part Two ({{% resource_link 612adde7-e1b5-c93c-cb07-1c19a5f82c
 
 Cadence Spectre MOS1 Models ({{% resource_link 8ead7bce-4bc0-6bf1-9201-8ee7195604f8 "PDF" %}}) (Courtesy of Cadence Design Systems, Inc. Used with permission.)
 
-Cadence Waveform Calculator Functions ([PDF](http://media.advico-microelectronics.com/documents/manuals/Calculator_Functions_Manual_100913.pdf))
+Cadence Waveform Calculator Functions ({{% resource_link "55c68c6a-3156-4d0a-932f-02ed9ff28b62" "PDF" %}})
